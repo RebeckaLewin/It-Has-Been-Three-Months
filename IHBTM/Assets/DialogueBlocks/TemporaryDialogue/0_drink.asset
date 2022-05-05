@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9236e42e00fda3243a4ee1389b7126cf, type: 3}
+  m_Name: 0_drink
+  m_EditorClassIdentifier: 
+  listOfBlocks:
+  - {fileID: 11400000, guid: 1f32452a5d13e9e4c89d9f4e1b8c603a, type: 2}
+  - {fileID: 11400000, guid: bd92b4d75eb898e42b6567ddcc5e9c80, type: 2}
+  - {fileID: 11400000, guid: 2d1442147be99bd458d6fd5bf7cab0a1, type: 2}

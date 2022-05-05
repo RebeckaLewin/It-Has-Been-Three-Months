@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c3aa596c96fd3041b9d3d0b2ef598e7, type: 3}
+  m_Name: a1_1_2
+  m_EditorClassIdentifier: 
+  lines:
+  - line: Sorry, I am not the person you think I am, I just found this phone on the
+      ground.
+    type: 1
+    sprite: {fileID: 0}
+  - line: Do you know how I can return this phone to them?
+    type: 1
+    sprite: {fileID: 0}
+  - line: 'Oh? You''re not Lou? '
+    type: 0
+    sprite: {fileID: 0}
+  - line: Nope.
+    type: 1
+    sprite: {fileID: 0}
+  - line: Do you have any idea where she could be?
+    type: 0
+    sprite: {fileID: 0}
+  - line: Also nope.
+    type: 1
+    sprite: {fileID: 0}
+  - line: Then unfortunately I am not more knowledgeable than you are at the moment,
+      the person who had this phone has been missing for the past three months and
+      I have been trying to find her since.
+    type: 0
+    sprite: {fileID: 0}
+  - line: I see...
+    type: 1
+    sprite: {fileID: 0}
+  type: 1
+  openWithPic: 0
+  conditionIndex: 0

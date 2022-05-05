@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba7d5ae294347864fb282f88d358d211, type: 3}
+  m_Name: RollForGender2
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Text: "@everyone Are you ready for tomorrow\u2019s one shot?"
+    User: 4
+    Date: 27 JUNE 2019
+  - Text: :D
+    User: 3
+    Date: 
+  - Text: I was born ready
+    User: 5
+    Date: 
+  - Text: Hell yeah
+    User: 6
+    Date: 
+  - Text: Ofc! @Jem#9999 are you joining in?
+    User: 1
+    Date: 
+  - Text: Oh hella!
+    User: 6
+    Date: 
+  - Text: OwO ?
+    User: 3
+    Date: 
+  - Text: " I mean\u2026 I don\u2019t really know DnD, so I feel like I\u2019ll just
+      be dead weight\u2026"
+    User: 0
+    Date: 
+  - Text: "It\u2019s fiiiine"
+    User: 1
+    Date: 
+  - Text: "I\u2019ve been playing for months"
+    User: 1
+    Date: 
+  - Text: and I still suck XD
+    User: 1
+    Date: 
+  - Text: Is that your idea of encouragement? lmao
+    User: 0
+    Date: 
+  - Text: "We\u2019re not playing DnD tomorrow anyway, so like a bunch of us are
+      newbies tonight"
+    User: 4
+    Date: 
+  - Text: "Huh\u2026 You know what? Why the hell not? What time is it?"
+    User: 0
+    Date: 
+  - Text: 9pm
+    User: 4
+    Date: 
+  - Text: Well shit
+    User: 0
+    Date: 
+  - Text: Why?
+    User: 1
+    Date: 
+  - Text: "You should know, we\u2019re helping Cass move her equipment around"
+    User: 0
+    Date: 
+  - Text: Fuck
+    User: 1
+    Date: 
+  - Text: XD
+    User: 3
+    Date: 
+  - Text: Should we postpone it?
+    User: 3
+    Date: 
+  - Text: "Nah don\u2019t bother"
+    User: 0
+    Date: 
+  - Text: Please?
+    User: 1
+    Date: 
+  - Text: "Lmao, we can move it yh, if everyone\u2019s good by it."
+    User: 4
+    Date: 
+  - Text: Sure!
+    User: 3
+    Date: 
+  - Text: No problem
+    User: 5
+    Date: 
+  - Text: I wanna play with the new gay
+    User: 6
+    Date: 
+  - Text: There we go, see you next week!
+    User: 5
+    Date: 

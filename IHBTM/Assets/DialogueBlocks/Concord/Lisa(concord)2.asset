@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba7d5ae294347864fb282f88d358d211, type: 3}
+  m_Name: Lisa(concord)2
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Text: Yo
+    User: 1
+    Date: 9 JANUARY 2022
+  - Text: Wanna window shop with me?
+    User: 1
+    Date: 
+  - Text: What? You, of all people asking me to come look for clothes?
+    User: 0
+    Date: 
+  - Text: Yeah
+    User: 1
+    Date: 
+  - Text: Dude clothes though
+    User: 1
+    Date: 
+  - Text: "Oh. Uh\u2026 I don\u2019t know if I want to be seen trying men\u2019s
+      clothings though"
+    User: 0
+    Date: 
+  - Text: "It\u2019s fine"
+    User: 1
+    Date: 
+  - Text: "Just pack a bunch of women\u2019s clothes in between"
+    User: 1
+    Date: 
+  - Text: Nobody will notice
+    User: 1
+    Date: 
+  - Text: "I\u2019ll help you out"
+    User: 1
+    Date: 
+  - Text: You know what? Yeah, I want to try things out! Who else is coming?
+    User: 0
+    Date: 
+  - Text: "Who else knows you\u2019re trying out gender stuff?"
+    User: 1
+    Date: 
+  - Text: Only you
+    User: 0
+    Date: 
+  - Text: "Then it\u2019s only me"
+    User: 1
+    Date: 
+  - Text: Oh
+    User: 1
+    Date: 
+  - Text: Oh
+    User: 0
+    Date: 
+  - Text: U gonna tell Cass about it?
+    User: 1
+    Date: 
+  - Text: "I\u2019ll have to one day"
+    User: 0
+    Date: 
+  - Text: Do you tho?
+    User: 1
+    Date: 
+  - Text: "She\u2019s my best friend, I don\u2019t want to lie to her"
+    User: 0
+    Date: 
+  - Text: I get that
+    User: 1
+    Date: 
+  - Text: Just take your time
+    User: 1
+    Date: 

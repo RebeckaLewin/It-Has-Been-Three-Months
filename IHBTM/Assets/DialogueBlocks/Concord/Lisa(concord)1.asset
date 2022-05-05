@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba7d5ae294347864fb282f88d358d211, type: 3}
+  m_Name: Lisa(concord)1
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Text: Dumbass
+    User: 0
+    Date: 21 JUNE 2019
+  - Text: "Sorry\u2026"
+    User: 1
+    Date: 
+  - Text: "It\u2019s fine lmao, they seem really nice, it\u2019s just kinda weird
+      to join in when I know shit about DnD lmao"
+    User: 0
+    Date: 
+  - Text: "Yeah\u2026"
+    User: 1
+    Date: 
+  - Text: "But they\u2019re really nice!"
+    User: 1
+    Date: 
+  - Text: "It\u2019s cool to know more gays(\u2122) too!"
+    User: 1
+    Date: 
+  - Text: True!
+    User: 0
+    Date: 

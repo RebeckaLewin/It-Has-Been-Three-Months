@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba7d5ae294347864fb282f88d358d211, type: 3}
+  m_Name: Cass(concord)
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Text: Happy New Year!
+    User: 2
+    Date: 1 JANUARY 2022
+  - Text: "Lmao I didn\u2019t realize you sent this last night"
+    User: 0
+    Date: 2 JANUARY 2022
+  - Text: Lmaoooooooo me neither
+    User: 2
+    Date: 
+  - Text: Did your mom realize you were drinking?
+    User: 2
+    Date: 
+  - Text: "Nope, I filled my mouth with mints, she didn\u2019t realize a thing"
+    User: 0
+    Date: 
+  - Text: XD
+    User: 2
+    Date: 
+  - Text: "I can\u2019t believe that did the trick"
+    User: 2
+    Date: 
+  - Text: You looked like a corpse when you left my place
+    User: 2
+    Date: 
+  - Text: Yeah
+    User: 0
+    Date: 
+  - Text: Cass?
+    User: 0
+    Date: 9 FEBRUARY 2022
+  - Text: Yes, that is me.
+    User: 2
+    Date: 
+  - Text: Can I call you?
+    User: 0
+    Date: 
+  - Text: Gimme 10mins
+    User: 2
+    Date: 
+  - Text: "Okay I\u2019m good"
+    User: 2
+    Date: 

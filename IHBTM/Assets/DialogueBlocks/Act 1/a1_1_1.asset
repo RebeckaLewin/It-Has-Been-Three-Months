@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c3aa596c96fd3041b9d3d0b2ef598e7, type: 3}
+  m_Name: a1_1_1
+  m_EditorClassIdentifier: 
+  lines:
+  - line: Hi, do you know how I can give this phone back its owner
+    type: 1
+    sprite: {fileID: 0}
+  - line: 'You just found this phone? That''s worrying... '
+    type: 0
+    sprite: {fileID: 0}
+  - line: Why?
+    type: 1
+    sprite: {fileID: 0}
+  - line: 'The girl who had this phone has gone missing for the last three months.
+      I have been trying to reach her to no avail. '
+    type: 0
+    sprite: {fileID: 0}
+  - line: I see...
+    type: 1
+    sprite: {fileID: 0}
+  type: 1
+  openWithPic: 0
+  conditionIndex: 0

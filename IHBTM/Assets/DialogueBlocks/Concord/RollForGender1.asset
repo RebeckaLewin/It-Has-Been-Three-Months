@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba7d5ae294347864fb282f88d358d211, type: 3}
+  m_Name: RollForGender1
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Text: "Hi! I\u2019m new here, Lisa invited me, pleased to meet you!"
+    User: 0
+    Date: 21 JUNE 2019
+  - Text: OwO? New person?
+    User: 3
+    Date: 
+  - Text: Hi!
+    User: 4
+    Date: 
+  - Text: Greetings!
+    User: 5
+    Date: 
+  - Text: "Damn, Lisa knows other gays IRL... I\u2019m so jealous"
+    User: 6
+    Date: 
+  - Text: "Um\u2026 Why is this server\u2019s icon a dice?"
+    User: 0
+    Date: 
+  - Text: Wdym?
+    User: 5
+    Date: 
+  - Text: Oh.
+    User: 1
+    Date: 
+  - Text: Wdym Oh?
+    User: 5
+    Date: 
+  - Text: To answer your question Jem we wanted something that was simple and representative,
+      so we chose the dice.
+    User: 5
+    Date: 
+  - Text: "I think Lisa got it wrong lmao, I\u2019m like a big JRPG fan, not that
+      big into the tabletop stuff. Anyway, sorry for the misunderstanding, I\u2019ll
+      see myself out"
+    User: 0
+    Date: 
+  - Text: Aw no ;-;
+    User: 3
+    Date: 
+  - Text: You should stay still! We like talking about JRPGs too!
+    User: 3
+    Date: 
+  - Text: "Maybe you\u2019ll join us for a oneshot session too"
+    User: 3
+    Date: 
+  - Text: 'Yeah! Anyone to rave about Okabe with! '
+    User: 4
+    Date: 
+  - Text: Okabe? As in, Keichi Okabe?
+    User: 0
+    Date: 
+  - Text: 'Hail to the king, man! '
+    User: 4
+    Date: 

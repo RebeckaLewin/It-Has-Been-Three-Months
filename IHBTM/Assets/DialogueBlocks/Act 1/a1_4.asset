@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c3aa596c96fd3041b9d3d0b2ef598e7, type: 3}
+  m_Name: a1_4
+  m_EditorClassIdentifier: 
+  lines:
+  - line: Can you help me find her?
+    type: 0
+    sprite: {fileID: 0}
+  - line: How?
+    type: 1
+    sprite: {fileID: 0}
+  - line: I am sure there are clues on her phone, you should look into it.
+    type: 0
+    sprite: {fileID: 0}
+  - line: Please.
+    type: 0
+    sprite: {fileID: 0}
+  - line: That sounds like I am preying on someone's privacy.
+    type: 1
+    sprite: {fileID: 0}
+  - line: Do you think it's more morally correct to let Lou suffer whatever fate
+      she is subjected to?
+    type: 0
+    sprite: {fileID: 0}
+  - line: That's true.
+    type: 1
+    sprite: {fileID: 0}
+  - line: Fine, I'll help you.
+    type: 1
+    sprite: {fileID: 0}
+  - line: Thank you so much!
+    type: 0
+    sprite: {fileID: 0}
+  - line: There may be some clue on the photo roll of the phone, I know Lou loved
+      to take pictures.
+    type: 0
+    sprite: {fileID: 0}
+  type: 0
+  openWithPic: 0
+  conditionIndex: 0

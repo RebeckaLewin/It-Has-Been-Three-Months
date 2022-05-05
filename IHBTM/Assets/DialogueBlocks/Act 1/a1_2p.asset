@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c3aa596c96fd3041b9d3d0b2ef598e7, type: 3}
+  m_Name: a1_2p
+  m_EditorClassIdentifier: 
+  lines:
+  - line: Who is she btw?
+    type: 1
+    sprite: {fileID: 0}
+  - line: Her name is Lou. She has been my friend for... god knows how long anymore.
+    type: 0
+    sprite: {fileID: 0}
+  - line: I hope she's okay.
+    type: 0
+    sprite: {fileID: 0}
+  - line: You seem pretty close.
+    type: 1
+    sprite: {fileID: 0}
+  - line: Yeah...
+    type: 0
+    sprite: {fileID: 0}
+  type: 3
+  openWithPic: 0
+  conditionIndex: 0

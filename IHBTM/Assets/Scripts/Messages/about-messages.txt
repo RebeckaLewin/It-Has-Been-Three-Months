@@ -1,0 +1,5 @@
+Static messages functions the same as ordinary chat messages,
+with some small differences
+
+the reason as for why this is the approach used is explained further
+in the accompanying essay
